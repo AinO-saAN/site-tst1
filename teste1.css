@@ -1,0 +1,48 @@
+h1{
+color:yellow;
+}
+body{
+background-color: rgb(255, 255, 255);
+font: size 100px; 
+
+}
+#cabecalho{
+color:rgb(255, 255, 255);
+}
+.cu{
+  
+color:rgb(255, 255, 255);
+}
+
+div{
+    color:azure;
+    width: 1900px; 
+height: 1870px; 
+font: weight 1200px; 
+font-size: large;
+background-image:url(infant.jpg) ;
+background-size:cover ;
+background-attachment: fixed;/*fixa o background*/
+/* background-image:url(kwai.png) ;
+background-repeat: no-repeat;
+background-position:bottom right ; */
+}
+
+h4{
+font-size:larger ;
+
+}
+/*p{
+    background-image:url(kwai.png) ;
+background-size:cover;
+
+}
+*/
+.tst1{
+background-color:black ;
+width:100px ;
+height: 100px; 
+border-style:solid ;/*define o estado da borda*/
+border-color:white ;
+}
+
